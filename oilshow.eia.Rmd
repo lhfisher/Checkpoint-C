@@ -1,7 +1,7 @@
 
 ---
 title: "OIL SHOW  HTML PROTOTYPE"
-author: "ANYA ERIC JEFF JOHN"
+author: "ANYA ERIC Leigh JOHN"
 date: "02/23/2015"
 output:
   revealjs::revealjs_presentation:
